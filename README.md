@@ -1,88 +1,78 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Rodrigo Guerra </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
-<p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
-
-
+<h1 align="center">Hola 👋, soy Rodrigo Guerra</h1>
+<h3 align="center">Data Scientist | Machine Learning</h3>
 
 <p align="center">
-  <em>
-    Soy Rodrigo Guerra esudiante del master de data science y graduado en ingieneria informática ambas en <a href="https://web.unican.es"> <b>University de Cantabria</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/TU_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mí ....***
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Cantabria,%20España-blue" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Enfoque-Machine%20Learning-brightgreen" alt="Enfoque"/>
+  <img src="https://img.shields.io/badge/Idiomas-Español%20%7C%20Inglés-success" alt="Idiomas"/>
+</p>
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
+---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+## Sobre mí
 
-<hr>
+Graduado en **Ingeniería Informática** y actualmente cursando el **Máster en Data Science**, ambos en la [Universidad de Cantabria](https://web.unican.es). Me apasiona encontrar patrones ocultos en los datos y convertirlos en decisiones útiles.
 
+- 🔭 Estoy trabajando en: **[describe tu proyecto actual, p. ej. un modelo de predicción de demanda]**
+- 🌱 Estoy aprendiendo: **Deep Learning**
+- 🤝 Me interesa colaborar en proyectos **open source** de ciencia de datos
+- 💼 Busco mi primera oportunidad como **Data Scientist o ML Engineer junior**
+- 📫 Escríbeme por LinkedIn o por email, respondo rápido
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+| --- | --- | --- |
+| [Nombre del proyecto](https://github.com/TU_USUARIO_GITHUB/repo) | Qué problema resuelve y qué resultado obtuviste | Python, scikit-learn |
+| [Nombre del proyecto](https://github.com/TU_USUARIO_GITHUB/repo) | Qué problema resuelve y qué resultado obtuviste | Pandas, TensorFlow |
+| [Trabajo Fin de Grado / Máster](https://github.com/TU_USUARIO_GITHUB/repo) | Resumen en una línea | ... |
+
+---
+
+## Herramientas
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ciencia de datos y Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Bases de datos, web y otras**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&locale=es&theme=chartreuse-dark" alt="Estadísticas" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&layout=compact&locale=es&theme=chartreuse-dark" alt="Lenguajes más usados" height="165"/>
+</p>
+
+<p align="center"><i>"La vida está llena de decisiones… elige con sabiduría."</i></p>
